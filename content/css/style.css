@@ -1,0 +1,15 @@
+footer{
+	position: relative;
+	height: 200px;
+	width: 100%;
+	background: #333;
+	bottom: -200px;
+}
+
+footer h4{color: white;}
+a{
+	text-transform: none;
+	text-decoration: none;
+}
+
+.blog-content{font-size: 18px;}
